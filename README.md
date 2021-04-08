@@ -1,5 +1,5 @@
 # mobile-app-shopping-assistant
-Building a mobile app with AppSheet to store budget on Sheets and importing Sheets into Dialogflow for online virtual shopping assistance.
+Building a mobile app with AppSheet to store your budget and money transactions on Google Sheets and importing Sheets into Dialogflow for virtual shopping assistance with dynamic reponses.
 
 The demo will include two main components:
 A mobile app that is developed customly to track your expenses/income.
