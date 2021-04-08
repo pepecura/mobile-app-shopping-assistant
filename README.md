@@ -20,7 +20,7 @@ budget for this category.  </br>
 _Agent:_ 	Ok. Can you check what fabric it is made of?  </br>
 **Caller:** 	It’s made of Wool. </br>
 _Agent:_ 	Wool can be a sustainable fabric depending on how it’s produced. </br>
-Wool is also compostable, incredibly insulating, and doesn't shed plastic microfibers. Unfortunately, there is also a lot of animal abuse in the wool industry, and so it’s essential to vet brands to verify sourcing and production methods. While wool isn’t for everyone, it is a fabric that many sustainable brands are turning to. Look for the ZQ certification.
+Wool is also compostable, incredibly insulating, and doesn't shed plastic microfibers. Unfortunately, there is also a lot of animal abuse in the wool industry, and so it’s essential to vet brands to verify sourcing and production methods. While wool isn’t for everyone, it is a fabric that many sustainable brands are turning to. Look for the ZQ certification. </br>
 **Caller:** 	Okay, thank you. </br>
 _Agent:_ 	I am glad I was able to help. Have a great day.. </br>
 
